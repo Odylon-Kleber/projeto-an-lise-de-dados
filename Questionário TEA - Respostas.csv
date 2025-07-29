@@ -1,0 +1,33 @@
+Participante,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12A,Q12B,Q12C,Q12D,Q12E,Q12F,Q12G,Q12H,Q12I,Q12J,Q12K,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q22,Q23,Q24A,Q24B,Q24C,Q24D,Q24E,Q24F,Q25
+1,7,Masculino,Não,38,Tia,Solteiro,4,Sim,Sim,5,1,Não ,Sim,Sim,Não,Sim,Sim,Não,Não,Sim,Sim,Não,C,A,B,NÃO,NEUROLOGISTA,SIM,1,NÃO,4,NEUROLOGISTA,SIM,Sim,Não,Não,Não,Não,Não,SIM
+2,6,Feminino,Não,37,Mãe,Solteiro,5,Sim,Sim,3,1,Sim,Sim,Sim,Sim,Não,Não,Sim,Sim,Sim,Não,Sim,A,A,G,NÃO,MÉDICO GENERALISTA,SIM,2,NÃO,2,PEDIATRA,NÃO,Não,Sim,Não,Não,Não,Não,NÃO
+3,8,Masculino,Não,28,Mãe,Viúva,3,Sim,Sim,15,"1,5",Sim,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Sim,B,B,G,SIM,MÉDICO GENERALISTA,SIM,2,SIM,6,NEUROPEDIATRA,NÃO,Não,Não,Sim,Não,Não,Não,SIM
+4,4,Masculino,Não,27,Mãe,Solteiro,3,Não,Não,0,3,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Não,Não,C,C,C,NÃO,MÉDICO GENERALISTA,SIM,3,NÃO,2,MEDICO GENERALISTA,NÃO,Sim,Sim,Não,Não,Não,Não,NÃO
+5,5,Masculino,Sim,36,Mãe,Casado ,5,Não,Não,0,"2,75",Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,B,B,F,SIM,ENFERMEIRO,SIM,3,NÃO,4,PEDIATRA,NÃO,Sim,Sim,Sim,Não,Não,Não,NÃO
+6,4,Masculino,Não,36,Mãe,Casado ,3,Não,Sim,10,"0,75",Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,B,B,G,NÃO,NEUROPEDIATRA,NÃO,9,SIM,8,PEDIATRA,SIM,Sim,Sim,Não,Não,Não,Não,SIM
+7,7,Masculino,Sim,55,Tia,Solteiro,4,Não,Não,0,4,Sim,Sim,Não,Sim,Não,Sim,Sim,Sim ,Sim,Sim,Não,B,D,C,NÃO,MÉDICO GENERALISTA,SIM,4,NÃO,2,NENHUM,NÃO,Sim,Sim,Sim,Não,Não,Não,NÃO
+8,8,Masculino,Sim,42,Pai,Casado ,4,Sim,Sim,40,2,Não ,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,E,D,C,SIM,PEDIATRA,SIM,7,SIM,3,PEDIATRA,SIM,Sim,Sim,Sim,Não,Não,Sim,SIM
+9,4,Masculino,Sim,44,Mãe,Casado ,4,Sim,Sim,3,2,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,B,B,G,NÃO,MÉDICO GENERALISTA,SIM,2,SIM,5,NEUROLOGISTA,SIM,Sim,Não,Não,Não,Não,Não,SIM
+10,5,Masculino,Não,26,Mãe,Separado,2,Não,Não,0,3,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Sim,C,B,B,SIM,NEUROPEDIATRA,SIM,4,SIM,5,NEUROPEDIATRA,NÃO,Sim,Não,Não,Não,Não,Não,SIM
+11,5,Masculino,Sim,42,Mãe,Separado,2,Sim,Sim,4,3,Não ,Sim,Sim,Não,Sim,Sim,Não,Não,Sim,Sim,Não,B,A,B,SIM,NEUROPEDIATRA,SIM,3,NÃO,3,NEUROPEDIATRA,NÃO,Não,Sim,Não,Não,Não,Não,SIM
+12,3,Feminino,Sim,32,Mãe,Solteiro,5,Não,Não,0,"0,75",Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,A,A,G,NÃO,PEDIATRA,SIM,2,SIM,3,PEDIATRA,SIM,Não,Sim,Não,Não,Não,Não,SIM
+13,5,Masculino,Sim,36,Mãe,Casado ,5,Não,Não,0,3,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,B,B,F,SIM,MÉDICO GENERALISTA,SIM,3,NÃO,4,PEDIATRA,NÃO,Sim,Sim,Sim,Não,Não,Não,NÃO
+14,8,Feminino,Não,28,Pai,Casado ,3,Sim,Não,0,4,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,B,D,G,NÃO,MÉDICO GENERALISTA,NÃO,5,NÃO,4,PEDIATRA,SIM,Sim,Sim,Não,Não,Não,Não,SIM
+15,3,Masculino,Sim,33,Mãe,Solteiro,2,Não,Não,0,2,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Sim,Não,Não,A,A,B,NÃO,MÉDICO GENERALISTA,NÃO,2,NÃO,2,MEDICO GENERALISTA,SIM,Sim,Não,Sim,Não,Não,Não,SIM
+16,6,Masculino,Não,40,Pai,Casado ,3,Sim,Sim,4,3,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Não,Não,B,A,C,NÃO,PEDIATRA,SIM,3,NÃO,4,PEDIATRA,SIM,Sim,Não,Não,Não,Não,Não,SIM
+17,13,Masculino,Sim,38,Mãe,Casado ,5,Não,Não,0,5,Sim,Sim,Sim,Não,Sim,Não,Sim,Sim,Não,Não,Não,B,C,B,NÃO,MÉDICO GENERALISTA,NÃO,7,SIM,7,PSIQUIATRA,SIM,Não,Sim,Não,Não,Não,Não,NÃO
+18,10,Masculino,Não,41,Mãe,Casado ,3,Sim,Sim,0,5,Não ,Sim,Sim,Sim,Não,Não,Não,Não,Sim,Não,Não,E,C,A,SIM,MÉDICO GENERALISTA,SIM,5,SIM,5,PEDIATRA,SIM,Não,Sim,Não,Não,Não,Não,SIM
+19,3,Masculino,Sim,43,Mãe,Solteiro,4,Não,Não,0,2,Sim,Não,Sim,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,D,A,B,NÃO,MÉDICO GENERALISTA,NÃO,3,NÃO,2,PEDIATRA,NÃO,Sim,Sim,Não,Não,Não,Não,NÃO
+20,9,Feminino,Não,35,Mãe,Casado ,3,Não,Sim,6,1,Não ,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,F,D,B,NÃO,ENFERMEIRO,SIM,8,NÃO,2,PEDIATRA,NÃO,Não,Sim,Sim,Não,Não,Não,NÃO
+21,7,Masculino,Não,37,Mãe,Solteiro,5,Sim,Sim,10,3,Sim,Sim,Não,Sim,Não,Não,Sim,Sim,Não,Sim,Não,D,A,C,NÃO,ENFERMEIRO,SIM,5,NÃO,5,PEDIATRA,NÃO,Não,Sim,Sim,Não,Não,Não,NÃO
+22,10,Masculino,Não,30,Mãe,Casado ,3,Sim,Sim,30,4,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,E,A,A,NÃO,PEDIATRA,SIM,8,NÃO,3,PEDIATRA,NÃO,Não,Sim,Sim,Não,Não,Não,NÃO
+23,7,Feminino,Não,43,Mãe,Solteiro,2,Não,Não,0,3,Sim,Sim,Não,Não,Não,Não,Sim,Sim,Sim,Sim,Sim,A,B,B,SIM,MÉDICO GENERALISTA,NÃO,3,SIM,2,NEUROLOGISTA,NÃO,Não,Não,Não,Sim,Não,Não,SIM
+24,8,Masculino,Não,37,Mãe,Solteiro,4,Não,Não,0,1,Não ,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,D,C,C,NÃO,ENFERMEIRO,NÃO,2,NÃO,4,PEDIATRA,SIM,Não,Não,Não,Sim,Não,Não,NÃO
+25,8,Feminino,Não,23,Mãe,Casado ,4,Sim,Sim,9,4,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Não,Sim,Sim,B,B,A,NÃO,MÉDICO GENERALISTA,SIM,5,NÃO,4,MEDICO GENERALISTA,NÃO,Sim,Não,Não,Não,Não,Não,NÃO
+26,10,Masculino,Não,38,Pai,Casado ,2,Sim,Não,0,5,Não ,Não,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,B,B,B,SIM,MÉDICO GENERALISTA,SIM,5,NÃO,3,MEDICO GENERALISTA,SIM,Sim,Não,Não,Não,Não,Não,NÃO
+27,9,Masculino,Não,28,Mãe,Casado ,2,Sim,Sim,3,4,Sim,Sim,Sim,Não,Não,Não,Não,Sim,Sim,Não,Não,D,D,A,NÃO,MÉDICO GENERALISTA,NÃO,6,NÃO,5,PEDIATRA,SIM,Não,Sim,Não,Não,Não,Não,NÃO
+28,11,Feminino,Não,32,Mãe,Solteiro,5,Não,Não,0,2,Não ,Sim,Não,Sim,Não,Sim,Não,Sim,Não,Sim,Sim,F,C,C,SIM,ENFERMEIRO,NÃO,6,SIM,3,NEUROLOGISTA,NÃO,Não,Não,Não,Sim,Não,Não,NÃO
+29,12,Masculino,Não,36,Pai,Casado ,3,Sim,Não,0,3,Não ,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,D,D,C,NÃO,ENFERMEIRO,NÃO,4,NÃO,6,MEDICO GENERALISTA,SIM,Sim,Não,Não,Não,Não,Não,SIM
+30,8,Masculino,Não,29,Pai,Solteiro,4,Não,Não,0,2,Sim,Sim,Não,Não,Não,Não,Não,Sim,Sim,Sim,Sim,F,C,G,SIM,PEDIATRA,SIM,5,NÃO,3,PEDIATRA,SIM,Não,Sim,Não,Não,Não,Não,SIM
+31,9,Masculino,Não,40,Mãe,Solteiro,2,Sim,Sim,10,1,Não ,Sim,Não,Sim,Não,Sim,Sim,Não,Não,Sim,Não,D,D,D,NÃO,MÉDICO GENERALISTA,SIM,3,SIM,4,MEDICO GENERALISTA,NÃO,Não,Não,Sim,Não,Não,Não,NÃO
+32,7,Masculino,Não,38,Mãe,Casado ,3,Não,Não,0,5,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,A,D,C,NÃO,MÉDICO GENERALISTA,SIM,5,NÃO,5,MEDICO GENERALISTA,NÃO,Não,Não,Sim,Não,Não,Não,SIM
